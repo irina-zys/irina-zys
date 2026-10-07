@@ -12,7 +12,7 @@ A promising result usually earns a few more questions. This is generally a good 
 
 I like understanding how things work, including the assumptions doing most of the work. Sensible baselines and experiments that can change my mind are always welcome.
 
-I’m also curious about people and language, particularly the gap between what we mean and what we manage to say. I appreciate independent thought, thoughtful conversation and the occasional well-placed understatement.
+I’m also curious about people and language, particularly the gap between what we mean and what we manage to say. I appreciate independent thought, thoughtful conversation and the occasional well-placed irony.
 
 I value clear explanations. Brevity remains an aspiration.
 
